@@ -1,0 +1,11 @@
+R:\Mes documents\Projets\Qlock\Soft\Appli\Clock Setting\Clock Setting\bin\Debug\Clock Setting.exe
+R:\Mes documents\Projets\Qlock\Soft\Appli\Clock Setting\Clock Setting\bin\Debug\Clock Setting.pdb
+R:\Mes documents\Projets\Qlock\Soft\Appli\Clock Setting\Clock Setting\obj\x86\Debug\MainWindow.baml
+R:\Mes documents\Projets\Qlock\Soft\Appli\Clock Setting\Clock Setting\obj\x86\Debug\MainWindow.g.cs
+R:\Mes documents\Projets\Qlock\Soft\Appli\Clock Setting\Clock Setting\obj\x86\Debug\App.g.cs
+R:\Mes documents\Projets\Qlock\Soft\Appli\Clock Setting\Clock Setting\obj\x86\Debug\Clock Setting_MarkupCompile.cache
+R:\Mes documents\Projets\Qlock\Soft\Appli\Clock Setting\Clock Setting\obj\x86\Debug\Clock Setting.g.resources
+R:\Mes documents\Projets\Qlock\Soft\Appli\Clock Setting\Clock Setting\obj\x86\Debug\Clock_Setting.Properties.Resources.resources
+R:\Mes documents\Projets\Qlock\Soft\Appli\Clock Setting\Clock Setting\obj\x86\Debug\Clock Setting.csproj.GenerateResource.Cache
+R:\Mes documents\Projets\Qlock\Soft\Appli\Clock Setting\Clock Setting\obj\x86\Debug\Clock Setting.exe
+R:\Mes documents\Projets\Qlock\Soft\Appli\Clock Setting\Clock Setting\obj\x86\Debug\Clock Setting.pdb
